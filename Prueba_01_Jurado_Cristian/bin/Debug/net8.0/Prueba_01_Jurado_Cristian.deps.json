@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prueba_01_Jurado_Cristian/1.0.0": {
+        "runtime": {
+          "Prueba_01_Jurado_Cristian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba_01_Jurado_Cristian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\bin\Debug\net8.0\Prueba_01_Jurado_Cristian.exe
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\bin\Debug\net8.0\Prueba_01_Jurado_Cristian.deps.json
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\bin\Debug\net8.0\Prueba_01_Jurado_Cristian.runtimeconfig.json
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\bin\Debug\net8.0\Prueba_01_Jurado_Cristian.dll
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\bin\Debug\net8.0\Prueba_01_Jurado_Cristian.pdb
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.AssemblyInfoInputs.cache
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.AssemblyInfo.cs
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.sourcelink.json
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.dll
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\refint\Prueba_01_Jurado_Cristian.dll
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.pdb
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\Prueba_01_Jurado_Cristian.genruntimeconfig.cache
+C:\Users\Cristian Jurado\source\repos\Prueba_01_Jurado_Cristian\Prueba_01_Jurado_Cristian\obj\Debug\net8.0\ref\Prueba_01_Jurado_Cristian.dll
